@@ -4,7 +4,11 @@ Unicode Viewer is a small application, written in C#, that let's the user search
 
 ![UnicodeViewer main window](images/unicodeviewer.png)
 
-I wrote it because sometime ago I needed to find some Unicode characters (and also because it seemed like an interesting side project).
+I wrote it because sometime ago I needed to find some Unicode characters (and also because it seemed like an interesting little side project).
+
+**Please note**
+
+This application only shows the Unicode characters in the range U+0000 through U+FFFF.
 
 ## User Interface
 
