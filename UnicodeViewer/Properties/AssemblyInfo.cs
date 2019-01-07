@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UnicodeViewer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple C# Windows application for viewing Unicode characters.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("João Martiniano")]
 [assembly: AssemblyProduct("UnicodeViewer")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright ©  2019 João Martiniano")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
