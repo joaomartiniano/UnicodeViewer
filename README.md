@@ -1,6 +1,6 @@
 # Unicode Viewer
 
-Unicode Viewer is a small application, written in C#, that let's the user search for and view Unicode characters.
+Unicode Viewer is a small application, written in C#, that lets the user search for and view Unicode characters.
 
 ![UnicodeViewer main window](images/unicodeviewer.png)
 
