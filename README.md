@@ -6,6 +6,8 @@ Unicode Viewer is a small application, written in C#, that let's the user search
 
 I wrote it because sometime ago I needed to find some Unicode characters (and also because it seemed like an interesting little side project).
 
+You can [download the installer files](https://github.com/joaomartiniano/UnicodeViewer/releases/latest) or clone this repository to build it on Visual Studio.
+
 **Please note**
 
 This application only shows the Unicode characters in the range U+0000 through U+FFFF.
